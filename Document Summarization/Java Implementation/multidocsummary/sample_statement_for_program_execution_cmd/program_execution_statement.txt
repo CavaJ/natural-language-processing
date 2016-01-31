@@ -1,0 +1,1 @@
+java CCMultiDocumentSummarizer corpus_hurricane summary_dir\summary.txt es 5
